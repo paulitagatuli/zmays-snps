@@ -1,8 +1,6 @@
-Zea Mays SNP
-Zeaaaaa
-KKKKKK
-2023-11-24
-OTRA PRUEBA
-ESTO LO VOY A RESETEAR
-Samples expected from
-CAMBIOS DE BARBARA
+Zea Mays SNP Calling Project
+Project started 2013-01-03
+
+Samples expected from sequencing core 2013-01-19
+
+We downloaded refgen3 on 2013-01-04
